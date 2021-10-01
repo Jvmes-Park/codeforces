@@ -1,0 +1,17 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+	int numOfWords;
+	string temp;
+	vector<string>words;
+	cin >> numOfWords;
+	for (int i = 0; i < numOfWords; i++) {
+		cin >> temp;
+		words.push_back(temp);	
+	}
+	for (int k : words.size()) {
+		cout << words[k]<<endl;
+	}
+}
