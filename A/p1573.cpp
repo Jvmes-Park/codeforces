@@ -2,6 +2,8 @@
 #define MAX 100
 using namespace std;
 
+//Wrong
+
 int main() {
 	int testCases, numDigits, digits;
 	cin >> testCases;

@@ -3,6 +3,8 @@
 #include <iostream>
 using namespace std;
 
+//wrong
+
 int VA(int num) {
 	int damage = 0;
 	for (int i = 0; i < num; i++) {

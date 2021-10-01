@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//wrong
+
 int main() {
 	string coded;
 	cin >> coded;

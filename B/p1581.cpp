@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
+//wrong
+
 int main() {
 	int testCases, n, m, k;
 	//n nodes, m edges, diameter must be < k - 1

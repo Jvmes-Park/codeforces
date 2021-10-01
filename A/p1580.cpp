@@ -4,6 +4,8 @@
 #define MAX 1000
 using namespace std;
 
+//wrong
+
 int main() {
 	int testCases, rows, columns;
 	int changes = 0;
